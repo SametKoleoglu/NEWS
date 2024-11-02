@@ -21,7 +21,7 @@ News App, kullanıcılara en son haberleri takip etme imkanı sunan bir mobil uy
 
 1. Bu projeyi klonlayın:
    ```bash
-   git clone https://github.com/SametKoleoglu/News_App2.git
+   git clone https://github.com/SametKoleoglu/NEWS
 
 2. İlgili dizine geçiş yapın:
    ```bash
